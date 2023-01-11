@@ -1,0 +1,765 @@
+/* компи від 1280 */
+@media screen and (max-width: 1280px) {
+ 
+  body {
+    width: 100%;
+  }
+  .conteiner {
+    width: 100%;
+    float: left;
+    font-size: 12px;
+    padding-bottom: 12px;
+  }
+  .contacts {
+    margin-right: 40px;
+  }
+  .contacts div {
+    margin-right: 20px;
+    float: left;
+  }
+  #logo-header {
+    width: 120px;
+    height: 40px;
+    float: left;
+    margin-top: 22px;
+    margin-left: 20px;
+  }
+  .header-promo h2 {
+    font-size: 48px;
+  }
+  .main-quote h3 {
+    font-size: 24px;
+  }
+  .title {
+    font-size: 32px;
+  }
+  .main-about p {
+    font-size: 12px;
+  }
+  .itev-img {
+    width: 60px;
+    height: 60px;
+  }
+  .competence-item p {
+    font-size: 12px;
+  }
+  .our-mission p {
+    margin-left: 15%;
+    font-size: 13px;
+  }
+  .our-mission h3 {
+    margin-top: 5%;
+  }
+  .our-mis-bagrau img {
+    width: 70%;
+  }
+  .success-stories p {
+    font-size: 13px;
+    margin-top: 2%;
+    margin-bottom: 1%;
+    margin-right: 15%;
+  }
+  .success-stories h3 {
+    margin-top: 5%;
+  }
+  .suc-stor-bagrau img {
+    width: 180%;
+  }
+  .lemonu {
+    height: 290px;
+  }
+  .lemon-tru {
+    top: 5%;
+  }
+  .lemon-tru p {
+    font-size: 12px;
+  }
+  .chifra {
+    bottom: 30%;
+  }
+  .lemo-fon img {
+    width: 80%;
+  }
+  .chifra img {
+    width: 45%;
+  }
+  .news-item p {
+    font-size: 12px;
+  }
+  .maps img {
+    margin: 3% 3%;
+    width: 57%;
+  }
+  .testi-img-text h4 {
+    font-size: 16px;
+  }
+  .testi-img-text p {
+    font-size: 12px;
+  }
+  .testi-img-text h6 {
+    font-size: 12px;
+  }
+  .sub-button {
+    width: 18%;
+  }
+  .subscribe .zvor-but {
+    width: 20%;
+    margin-left: 2%;
+    margin-right: 2%;
+  }
+  .futer-header {
+    font-size: 16px;
+  }
+  .footer-coloun1 p {
+    font-size: 11px;
+  }
+  .fitback {
+    padding-top: 20%;
+  }
+  .menu-main-f {
+    font-size: 10px;
+  }
+  .futer-contact p {
+    font-size: 12px;
+  }
+}
+
+/* нетбуки 1024 */
+@media screen and (max-width: 1024px) {
+  body {
+    width: 100%;
+  }
+  .conteiner {
+    width: 90%;
+  }
+  .contacts div {
+    margin-right: 20px;
+  }
+  #logo-header {
+    width: 120px;
+    height: 40px;
+    float: left;
+    margin-top: 22px;
+  }
+  .competence-item {
+    height: 300px;
+    padding-bottom: 5px;
+  }
+  .competence-item p {
+    margin: 1px;
+    width: 100%;
+  }
+  .menu-main {
+    font-size: 10px;
+  }
+  .our-mission p {
+    margin-left: 8%;
+    font-size: 12px;
+    margin-top: 1%;
+    margin-bottom: 1%;
+  }
+  .our-mission h3 {
+    margin-top: 5%;
+  }
+  .our-mis-bagrau img {
+    width: 60%;
+  }
+  .mission-promo a {
+    height: 40px;
+  }
+  .stories {
+    padding-bottom: 1%;
+  }
+  .success-stories p {
+    font-size: 12px;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    margin-right: 5%;
+  }
+  .success-stories h3 {
+    margin-top: 3%;
+  }
+  .suc-stor-bagrau img {
+    width: 180%;
+  }
+  .lemonu {
+    height: 220px;
+  }
+  .lemon-tru {
+    top: 5%;
+    height: 90%;
+  }
+  .chifra {
+    bottom: 35%;
+  }
+  .lemo-fon img {
+    width: 80%;
+    height: 100%;
+  }
+  .chifra img {
+    width: 45%;
+  }
+  .testi-img-text {
+    width: 30%;
+  }
+  .testi-img-text h4 {
+    font-size: 14px;
+  }
+  .testi-img-text p {
+    font-size: 11px;
+  }
+}
+
+/* довільно 960 */
+@media screen and (max-width: 960px) {
+  body {
+    width: 100%;
+  }
+  .header-top {
+    height: 110px;
+  }
+  .header-promo h2 {
+    font-size: 40px;
+  }
+  .conteiner {
+    width: 90%;
+  }
+  .contacts {
+    margin-top: 5px;
+  }
+  .contacts div {
+    float: none;
+  }
+  .title {
+    font-size: 28px;
+  }
+  .menu-main {
+    font-size: 8px;
+  }
+  .main-quote h3 {
+    font-size: 20px;
+  }
+  .competence-item {
+    margin-right: 20px;
+    padding: 24px 30px 16px;
+  }
+  .competence-item h2 {
+    font-size: 16px;
+  }
+  .itev-img {
+    width: 46%;
+    height: 18%;
+  }
+  .mission-promo a {
+    height: 35px;
+  }
+  .lemon-tru {
+    top: 15%;
+    height: 85%;
+  }
+  .lemo-fon {
+    margin: 0 5%;
+    width: 15%;
+  }
+  .lemon-tru p {
+    font-size: 10px;
+  }
+  .chifra {
+    bottom: 45%;
+    width: 85%;
+  }
+  .news-item h3 {
+    font-size: 13px;
+  }
+  .news-item h4 {
+    font-size: 13px;
+  }
+  .news-item p {
+    font-size: 10px;
+  }
+  .news-conteiner {
+    margin-top: 10px;
+  }
+  .news-button {
+    top: 95%;
+  }
+  .news-button button {
+    font-size: 10px;
+  }
+  .testi-text {
+    font-size: 26px;
+  }
+  .testi-img-text h4 {
+    font-size: 12px;
+  }
+  .testi-img-text p {
+    font-size: 10px;
+  }
+  .testi-img-text h6 {
+    font-size: 11px;
+  }
+  .inputt input {
+    font-size: 11px;
+  }
+  #p2 {
+    margin: 20px auto;
+  }
+  .fitback {
+    padding-top: 33%;
+  }
+  .menu-main-f {
+    font-size: 10px;
+  }
+  .futer-contact p {
+    font-size: 10px;
+  }
+  .Copyright {
+    font-size: 12px;
+  }
+}
+
+/* планшети 768 */
+@media screen and (max-width: 768px) {
+  body {
+    width: 100%;
+  }
+  .conteiner {
+    width: 100%;
+  }
+  .contacts {
+    margin-top: 5px;
+    margin-right: 135px;
+  }
+  .contacts div {
+    float: none;
+  }
+  .header-bg {
+    height: 400px;
+  }
+  .header-promo {
+    top: 40%;
+  }
+  .header-promo h2 {
+    font-size: 33px;
+    line-height: 44px;
+  }
+  .header-promo a {
+    width: 200px;
+    height: 35px;
+    font-size: 12px;
+  }
+  .menu-main li {
+    margin-right: 40px;
+  }
+  .main-quote h3 {
+    font-size: 18px;
+  }
+  .main-quote h4 {
+    font-size: 12px;
+  }
+  .title {
+    font-size: 24px;
+  }
+  .itev-img {
+    margin: 10px auto;
+  }
+  .competence-item {
+    height: 220px;
+  }
+  .competence-item h2 {
+    font-size: 13px;
+  }
+  .main-about p {
+    font-size: 10px;
+  }
+  .competence-item {
+    padding: 24px 10px 16px;
+    width: 26%;
+  }
+  .itev-img {
+    width: 40%;
+    height: 28%;
+  } 
+  .chifra {
+    bottom: 57%;
+    width: 80%;
+  }
+  .our-mission p {
+    margin-left: 4%;
+    font-size: 9px;
+    line-height: 18px;
+  }
+  .our-mission h3 {
+    margin-top: 1%;
+  }
+  .our-mis-bagrau img {
+     width: 45%;
+  }
+  .mission-promo a {
+    height: 30px;
+    width: 200px;
+  }
+  .success-stories p {
+    font-size: 9px;
+    line-height: 18px;
+  }
+  .success-stories h3 {
+    line-height: 30px;
+  }
+  .lemon-tru p {
+    line-height: 14px;
+  }
+  .news {
+    padding-top: 1%;
+  }
+  .news-conteiner {
+    margin-top: 2%;
+  }
+  .news-item {
+    width: 25%;
+  }
+  .news-item h3 {
+    margin-left: 15px;
+    margin-right: 15px;
+    font-size: 9px;
+  }
+  .news-item h4 {
+    font-size: 11px;
+    margin-left: 15px;
+  }
+  .news-item p {
+    margin-left: 15px;
+    margin-right: 15px;
+    font-size: 9px;
+  }
+  .title p {
+    display: none;
+  }
+  .testi-img-text {
+    width: 40%;
+    height: 440px;
+  }
+  .on-maps {
+    padding-right: 10%;
+  }
+  .zvor-zv {
+    width: 95%;
+  }
+  .subscribe {
+    padding-top: 1%;
+  }
+  .sub-img {
+    margin: 0px 4%;
+  }
+  .inputt input {
+    font-size: 10px;
+  }
+  .zvor-but {
+    font-size: 11px;
+  }
+  #p2 {
+    font-size: 12px;
+  }
+  .fitback {
+    padding-top: 60%;
+  }
+  .futer-header {
+    padding-left: 20px;
+  }
+  .footer-coloun2 {
+    margin-left: 1px;
+  }
+  .menu-main-f {
+    font-size: 9px;
+    padding-left: 10px;
+  }
+  .futer-contact {
+    font-size: 10px;
+    padding-left: 10px;
+    margin-top: 10px;
+  }
+  .futer-contact img {
+    padding: 8px 10px;
+  }
+}
+
+/* довільно 650 нове верхнє меню */
+@media screen and (max-width: 650px) {
+  body {
+    width: 100%;
+  }
+  .conteiner {
+    width: 100%;
+  }
+  /* показати моб меню */
+  .header-mob {
+    display: block;
+    height: 150px;
+  }
+  .header-mob-promo {
+    display: block;
+  }
+  .mobile-header {
+    height: 900px;
+  }
+  .contacts {
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  .header-mob-promo {
+    top: 50%;
+  }
+  .header-mob-promo h2 {
+    margin: 150px auto;
+  }
+  .mobile-img {
+    display: block;
+    width: 100%;
+  }
+  /* забрати не потрібне*/ 
+  .header-top,
+  .header-nav,
+  .menu-main,
+  .header-promo,
+  .header-bg {
+    display: none;
+  }
+  .main-about p {
+    width: 80%;
+  }
+  .competence-item,
+  .news-item {
+    width: 25%;
+  }
+  .itev-img {
+    width: 26%;
+    height: 12%;
+  }
+  .our-mission h3 {
+    line-height: 30px;
+  }
+  .our-mission p {
+    margin-right: 4%;
+  }
+  .mission-promo a {
+    font-size: 10px;
+    height: 25px;
+    width: 120px;
+  }
+  .success-stories p {
+    line-height: 15px;
+    margin-left: 2px;
+    margin-right: 2px;
+  }
+  .lemon-tru {
+    top: 8%;
+    height: 55%;
+  }
+  .chifra {
+    bottom: 55%;
+  }
+  .lemon-tru p {
+    font-size: 8px;
+    line-height: 16px;
+    margin: 0;
+  }
+  .testimonials {
+    padding-left: 5%;
+  }
+  .on-maps {
+    padding-right: 1px;
+  }
+  .sub-button:first-child {
+    margin-left: 5%;
+  }
+  .zvor-zv {
+    width: 95%;
+  }
+  .trucoloncu {
+    margin-left: 1%;
+    margin-right: 1%;
+  }
+  .fitback {
+    padding-top: 30%;
+  }
+  .fitback p {
+    margin-right: 5px;
+  }
+}
+
+/*  540 */
+@media screen and (max-width: 540px) {
+  body {
+    width: 100%;
+  }
+  .contacts {
+    display: flex;
+    text-align: center;
+    margin-right: 13%;
+    font-size: 13px;
+  }
+  .nav-block {
+    padding: 25px 110px;
+  }
+  .mobile-header {
+    height: 745px;
+  }
+  .header-mob-promo h2 {
+    font-size: 40px;
+  }
+  .header-mob-promo a {
+    width: 260px;
+    height: 40px;
+    font-size: 20px;
+  }
+  .itev-img {
+    width: 7%;
+    height: 15%;
+  }
+  .competence-item {
+    height: 170px;
+  }
+  .our-mis-img,
+  .stories-img {
+    display: none;
+  }
+  .mission,
+  .stories {
+    width: 90%;
+    padding-bottom: 2%;
+    margin-left: 6%;
+  }
+  .suc-stor-bagrau {
+    left: 39%;
+    top: 23%;
+    width: 15%;
+  }  
+  .lemonu {
+    height: 135px;
+  }
+  .lemon-tru {
+    height: 85%;
+  }
+  .news-item {
+    margin-right: 10px;
+    width: 30%;
+  }
+  .zvor-zv {
+    display: contents;
+  }
+  .sub-button,
+  .sub-button:first-child,
+  .subscribe .zvor-but {
+    width: 35%;
+    margin-left: 30%;
+    margin-top: 5px;
+  }
+  .subscribe .zvor-but {
+    width: 40%;
+  }
+  #OWNEff {
+    padding: 1px 6px;
+    margin-top: 32px;
+  }
+}
+
+/* 375 */
+@media screen and (max-width: 540px) {
+  body {
+    width: 100%;
+  }
+  .contacts {
+    margin-right: 5px;
+  }
+  .header-mob {
+    height: 95px;
+  }
+  #logo-header {
+    margin-top: 1px;
+  }
+  .nav-block {
+    padding: 5px 5px;
+  }
+  .mobile-header {
+    height: 517px;
+  }
+  .header-mob-promo h2 {
+    margin: 90px auto;
+    font-size: 32px;
+  }
+  .header-mob-promo a {
+    width: 240px;
+    height: 30px;
+    font-size: 18px;
+  }
+  .main-quote h3 {
+    font-size: 15px;
+  }
+  .title {
+    font-size: 22px;
+  }
+  .about-competence {
+    height: 620px;
+    display: block;
+    justify-content: center;
+  }
+  .competence-item {
+    width: 95%;
+    margin-bottom: 3%;
+  }
+  .success-stories button {
+    font-size: 9px;
+  }
+  .lemonu {
+    display: none;
+  }
+  .news-item,
+  .left-right,
+  .testi-img-text,
+  .tri {
+    display: none;
+  }
+  #newsitem {
+    display: block;
+    width: 80%;
+  }
+  #testimg {
+    display: block;
+    width: 80%;
+  }
+  .sub-button, .sub-button:first-child, .subscribe .zvor-but {
+    width: 55%;
+    margin-left: 20%;
+  }
+  .subscribe .zvor-but {
+    width: 62%;
+  }
+  .trucoloncu {
+    display: contents;
+  }
+  .logo2 img {
+    margin: 25px auto;
+    width: 100%;
+  }
+  .fitback {
+    padding-bottom: 5%;
+    padding-top: 1px;
+    margin-left: 40px;
+  }
+  .footer-coloun1 {
+    margin-left: 20%;
+    width: 50%;
+  }
+  .footer-coloun1 p {
+    display: none;
+  }
+  .footer-coloun2 {
+    display: none;
+  }
+  .footer-coloun3 {
+    margin-left: 10%;
+    width: 60%;
+  }
+}
